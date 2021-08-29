@@ -35,7 +35,6 @@ Welcome to my Github page! I am Omor and currently I am working as a Software En
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmorFarukRakib&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/OmorFarukRakib/github-readme-stats)
 
 
-	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -43,7 +42,6 @@ Welcome to my Github page! I am Omor and currently I am working as a Software En
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<br />
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
