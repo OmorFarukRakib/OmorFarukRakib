@@ -17,6 +17,9 @@ Welcome to my Github page! I am Omor and currently I am working as a Software En
 - Worked as a Full time Lecturer of Computer Science & Engineering department in University of Global Village, Barisal, Bangladesh. (2020-2021)
 - Currently working as a Software Engineer in Ultra-X BD, A Bangladeshi branch of japanese IT company Ultra-X Asia Pacific Inc.
 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OmorFarukRakib&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Omor's Github Stats">
+
+
 #### :muscle: Things I am capable of doing:
 - My current strong side is the Front-End web developement.
 - I have strong mastery over JS and currently working with React.js
@@ -24,9 +27,10 @@ Welcome to my Github page! I am Omor and currently I am working as a Software En
 - Used to use Github for version controlling and team work.
 - Used to work in Jira for software developement life cycle.
 
+
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OmorFarukRakib&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Omor's Github Stats">
+	
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmorFarukRakib&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/OmorFarukRakib/github-readme-stats)
 
