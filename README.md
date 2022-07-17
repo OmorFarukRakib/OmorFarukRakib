@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rakib1001.se.stuff@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/OmorFarukRakib/)
 
-Welcome to my Github page! I am Omor and currently I am working as a Software Engineer in a Japanese IT company: Ultra-x Asia Pacific Inc. I am currently working from Bangladesh in their bangladesh branch Ultra-X BD!  
+Welcome to my Github page! I am Omor and currently I am working as a full-time remote Software Developer at Incepta Solutions, Canada.  
 
 <img align="right" alt="img" src="https://i.kym-cdn.com/entries/icons/original/000/021/807/ig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg" width="50%" height="auto" />
 
@@ -16,7 +16,8 @@ Welcome to my Github page! I am Omor and currently I am working as a Software En
 - Completed my B.Sc. In Computer Science & Engineering form East West University, Dhaka, Bangladesh.
 - Worked as an Undergraduate Teaching Assistant (UTA) for 2 years (2017-2019) and Graduate Teaching Assistant (GTA) for 4 months.  
 - Worked as a Full time Lecturer of Computer Science & Engineering department in University of Global Village, Barisal, Bangladesh. (2020-2021)
-- Currently working as a Software Engineer in Ultra-X BD, A Bangladeshi branch of japanese IT company Ultra-X Asia Pacific Inc.
+- Worked as a Software Engineer on MERN web stack in Ultra-X BD, A Bangladeshi branch of japanese IT company Ultra-X Asia Pacific Inc.
+- Currently working as a full-time remote Software Developer at Incepta Solutions, Canada. 
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OmorFarukRakib&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Omor's Github Stats">
 
